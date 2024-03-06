@@ -1,0 +1,17 @@
+body {
+  background: #d6c296;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+footer {
+  text-decoration: none;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #db883d;
+}
